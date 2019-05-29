@@ -1,0 +1,6 @@
+git add . 
+git commit - "sadad"
+git push origin master
+
+
+git pull origin master
