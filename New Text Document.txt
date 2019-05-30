@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-git add . 
-git commit - "sadad"
-git push origin master
-
-
-git pull origin master
-=======
-this is my file
-this is git
-third line
->>>>>>> a0df0ce222795d304a363dbbfb9854b092006b45
-hihihiohioxdbucbc
+djhhwd
